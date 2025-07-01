@@ -1,30 +1,46 @@
-# 🐍 Python DSA Data Types Methods
+# DSA with Python 🚀
 
-Welcome to your one-stop notebook for mastering Python's most useful methods for all major data types, especially helpful for **DSA preparation, coding interviews, and beginners**.
+This repository is a personal journey to master **Data Structures and Algorithms (DSA)** using Python.  
+It begins with a short Python refresher (for self-review) and then dives into core DSA concepts — explained with simple, readable code.
 
----
+## 📚 Sections
 
-## 📚 What's Inside?
+### 1. Starter: Python Refresher (Minimal)
+A brief warm-up before diving into DSA.  
 
-- ✅ **Strings**: Reverse, palindrome, anagram, vowels, etc.
-- ✅ **Lists**: Sorting, reversing, removing duplicates, slicing, etc.
-- ✅ **Dictionaries**: Frequency count, key-value updates, merging, etc.
-- ✅ **Sets**: Union, intersection, difference, duplicate removal.
-- ✅ **Tuples**: Indexing, slicing, unpacking.
-- ✅ **Common Patterns**: Comprehensions, lambda, map/filter, etc.
 
 ---
 
+### 2. Core DSA Topics (Work in Progress) ⚙️
+- Arrays
+- Searching & Sorting Algorithms
+- Recursion
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Hashing
+- Dynamic Programming
+
+> 📁 Folder: `dsa/`
+
 ---
 
-## 🚀 How to Use
+## 🛠 Tools & Language
+- Language: Python 3
+- Editor: VS Code / Jupyter Notebook
 
-1. Clone the repo:
-```bash
-git clone https://github.com/shivanya-tech/python-dsa-datatypes-methods.git
-Made by shivani vishwakarma — a Data Science Student at IIT Madras
-📍 India | ✨ Python Enthusiast | 🔧 Automation Builder
+---
 
+## 👩‍💻 Author
+**Shivani Vishwakarma**  
+B.S. in Data Science & Programming, IIT Madras  
+[LinkedIn](https://www.linkedin.com/in/shivani-vishwakarma-25137028a) | [GitHub](https://github.com/shivanya-tech)
+
+---
+
+## ⭐️ Star This Repo
+If this helps or inspires you, please consider starring the repo.
 
 
 
