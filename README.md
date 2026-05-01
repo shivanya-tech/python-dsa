@@ -1,9 +1,9 @@
-# DSA with Python 🚀
+# DSA with Python 
 
 This repository is a personal journey to master **Data Structures and Algorithms (DSA)** using Python.  
 It begins with a short Python refresher (for self-review) and then dives into core DSA concepts — explained with simple, readable code.
 
-## 📚 Sections
+## Sections
 
 ### 1. Starter: Python Refresher (Minimal)
 A brief warm-up before diving into DSA.  
@@ -11,7 +11,7 @@ A brief warm-up before diving into DSA.
 
 ---
 
-### 2. Core DSA Topics (Work in Progress) ⚙️
+### 2. Core DSA Topics (Work in Progress) 
 - Arrays
 - Searching & Sorting Algorithms
 - Recursion
